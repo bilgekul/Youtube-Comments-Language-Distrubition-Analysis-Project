@@ -17,4 +17,8 @@ The purpose of this project is to analyze the clustering of comments made by ind
 ## Dataset Link
 https://www.kaggle.com/datasets/nipunarora8/most-liked-comments-on-youtube
 
+## Results
+![image](https://github.com/bilgekul/Youtube-Comments-Language-Distrubition-Analysis-Project/assets/93567431/0ef2f4f3-5682-4804-8a47-fa5b421d00f7)
+
+
 
